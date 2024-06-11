@@ -1,0 +1,11 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID</string>
+    <string name="firebase_database_url" translatable="false">YOUR_FIREBASE_DATABASE_URL</string>
+    <string name="gcm_defaultSenderId" translatable="false">YOUR_SENDER_ID</string>
+    <string name="google_api_key" translatable="false">
+AIzaSyD0L_V84vp2BwkN6q0cLvS9GMInbPm8q0Q</string>
+    <string name="google_app_id" translatable="false">1:1054521920865:ios:d938654b740b0334a58920</string>
+    <string name="google_crash_reporting_api_key" translatable="false">
+AIzaSyD0L_V84vp2BwkN6q0cLvS9GMInbPm8q0Q</string>
+    <string name="project_id" translatable="false">community-app-adf77OUR_PROJECT_ID</string>
+</resources>
